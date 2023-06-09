@@ -27,7 +27,7 @@ history_file_path:
 seasonal_file_path: 
 
 # Url of the goganime website, only change if needed
-gogoanime_url: "https://gogoanime.gg/"
+gogoanime_url: "https://gogoanime.llc/"
 
 # Path to the video-player.
 # Supported Players are: mpv, vlc, syncplay, mpvnet
